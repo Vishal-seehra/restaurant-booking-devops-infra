@@ -1,4 +1,4 @@
-FROM openjdk:17
+FROM eclipse-temurin:17-jdk-jammy
 
 WORKDIR /app
 
@@ -8,8 +8,9 @@ RUN git clone https://github.com/Vishal-seehra/Restaurant-Booking-Management-App
 
 WORKDIR /app/Restaurant-Booking-Management-Application
 
+RUN find . -name "*.class" -delete
 
-RUN javac Main.java
+RUN javac $(find . -name "*.java")
 
 EXPOSE 5000
 
