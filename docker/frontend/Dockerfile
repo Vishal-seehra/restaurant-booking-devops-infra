@@ -6,6 +6,7 @@ RUN git clone https://github.com/Vishal-seehra/Restaurant-Booking-Management-App
 
 RUN rm -rf /usr/share/nginx/html/*
 
-RUN cp -r Restaurant-Booking-Management-Application/* /usr/share/nginx/html/
+RUN cp Restaurant-Booking-Management-Application/*.html /usr/share/nginx/html/
+RUN cp -r Restaurant-Booking-Management-Application/Images /usr/share/nginx/html/
 
 EXPOSE 80
