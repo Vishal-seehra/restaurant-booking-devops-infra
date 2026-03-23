@@ -2,13 +2,8 @@
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
-![Java](https://img.shields.io/badge/Java-Backend-blue)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-![HTML](https://img.shields.io/badge/HTML5-Frontend-red)
-![CSS](https://img.shields.io/badge/CSS3-Styling-blueviolet)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-yellow)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboard-orange)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-Logs-yellow)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
