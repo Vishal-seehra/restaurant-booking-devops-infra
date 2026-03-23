@@ -71,17 +71,17 @@ CI/CD → GitHub Actions
 
 ## 🚀 Features
 
-* 📅 Table Reservation System
-* 👥 Customer Management
-* ⚡ Real-time Backend API
-* 🐳 Containerized Deployment
-* 📊 Monitoring with Prometheus & Grafana
-* 📜 Centralized Logging with CloudWatch
-* 🔔 Alerting via SNS
-* 💰 Cost Monitoring with AWS Budgets
-* 🔐 Security with IAM & WAF
-* ⚙️ Fully Automated CI/CD Pipeline
-* 🏗️ Infrastructure as Code using Terraform
+*  Table Reservation System
+*  Customer Management
+*  Real-time Backend API
+*  Containerized Deployment
+*  Monitoring with Prometheus & Grafana
+*  Centralized Logging with CloudWatch
+*  Alerting via SNS
+*  Cost Monitoring with AWS Budgets
+*  Security with IAM & WAF
+*  Fully Automated CI/CD Pipeline
+*  Infrastructure as Code using Terraform
 
 ---
 
@@ -177,13 +177,13 @@ http://restaurant-alb-1171895923.eu-north-1.elb.amazonaws.com/
 ---
 
 ## 🏆 Key Highlights
-
+```
 ✔ Production-grade architecture
 ✔ Fully automated deployment
 ✔ Scalable and secure design
 ✔ Real-time monitoring & alerts
 ✔ Cost-aware cloud usage
-
+```
 ---
 
 ## 👨‍💻 Author
