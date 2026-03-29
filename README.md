@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Booking Management System (DevOps Project)
+# Cloud-Native Restaurant Booking System with End-to-End DevOps Pipeline
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
