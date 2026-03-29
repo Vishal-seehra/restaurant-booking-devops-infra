@@ -186,6 +186,6 @@ http://restaurant-alb-1171895923.eu-north-1.elb.amazonaws.com/
 ```
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Vishal Seehra**
