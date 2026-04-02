@@ -17,22 +17,11 @@ It demonstrates **end-to-end system design**, including infrastructure provision
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ System Architecture
 
 ```
-User → ALB → EC2 (Docker Containers)
-                  ├── Frontend (Nginx)
-                  ├── Backend (Java API)
-                  ├── Prometheus
-                  └── Grafana
+<img width="821" height="870" alt="arch diagram" src="https://github.com/user-attachments/assets/9a725c51-bef6-4c68-8e38-538a2bab3ff2" />
 
-Backend → RDS (MySQL)
-
-Logs → CloudWatch
-Alerts → SNS
-Security → IAM + WAF
-IaC → Terraform
-CI/CD → GitHub Actions
 ```
 
 ---
