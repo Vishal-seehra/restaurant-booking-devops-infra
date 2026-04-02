@@ -19,10 +19,7 @@ It demonstrates **end-to-end system design**, including infrastructure provision
 
 ## 🏗️ System Architecture
 
-```
 <img width="821" height="870" alt="arch diagram" src="https://github.com/user-attachments/assets/9a725c51-bef6-4c68-8e38-538a2bab3ff2" />
-
-```
 
 ---
 
